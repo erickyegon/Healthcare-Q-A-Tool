@@ -769,3 +769,7 @@ This project showcases advanced software engineering capabilities including:
 ---
 
 *This project demonstrates enterprise-level software development practices, advanced AI/ML integration, healthcare-grade security implementation, and production-ready system design suitable for healthcare technology environments.*
+
+---
+
+Author: Erick Kiprotich Yegon, epidemiologist and data scientist (real-world evidence, HEOR, causal inference) · Portfolio: https://erickyegon.github.io · LinkedIn: https://linkedin.com/in/erickyegon
